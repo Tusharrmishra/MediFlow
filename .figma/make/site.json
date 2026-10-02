@@ -1,0 +1,10 @@
+{
+  "description": "Streamline hospital operations with a centralized platform connecting patients, doctors, and staff for efficient appointment scheduling, medical records management, and AI-assisted clinical support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
